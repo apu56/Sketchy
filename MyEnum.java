@@ -1,0 +1,8 @@
+package Sketchy;
+
+public enum MyEnum {
+
+		SELECTSHAPE, DRAWWITHPEN, DRAWRECTANGLE, DRAWELLIPSE, FILLBUTTON;
+
+
+}
